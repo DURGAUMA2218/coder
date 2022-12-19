@@ -1,0 +1,2 @@
+# coder
+CODING=MAGIC
